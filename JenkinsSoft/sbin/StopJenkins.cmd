@@ -1,0 +1,1 @@
+java -cp %JENKINS_HOME%/war/winstone.jar winstone.tools.WinstoneControl shutdown --host=localhost --port=8001

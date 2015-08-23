@@ -1,0 +1,1 @@
+java -cp %JENKINS_HOME%/war/winstone.jar winstone.tools.WinstoneControl reload: --host=localhost --port=8001
